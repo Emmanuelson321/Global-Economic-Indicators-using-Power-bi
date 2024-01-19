@@ -12,7 +12,7 @@ Furthermore, the examination included an exploration of population density, unve
 All data in this report comes from the World's bank Economic Development Database at
 [world Bank](https://databank.worldbank.org).
 
-Specific API data sources:
+Specific API data sources
 https://api.worldbank.org/v2/country/all?format=JSON&per_page=500
 https://api.worldbank.org/v2/sources/2/series/SP.POP.TOTL/metadata
 https://api.worldbank.org/v2/sources/2/series/NY.GDP.MKTP.KD/metadata
