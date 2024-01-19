@@ -8,11 +8,15 @@ The key indicators under consideration encompassed the dynamic GDP Annual Growth
 
 Furthermore, the examination included an exploration of population density, unveiling the concentration of inhabitants in geographical areas. By scrutinizing these essential indicators, the analysis aimed to unveil patterns, correlations, and potential implications for understanding the intricate landscape of global economic development.
 
+## Tools Used
+- Power Query
+- Power BI
+
 ## Data Source
 All data in this report comes from the World's bank Economic Development Database at
 [world Bank](https://databank.worldbank.org).
 
-Specific API data sources
+Specific API data sources:
 https://api.worldbank.org/v2/country/all?format=JSON&per_page=500
 https://api.worldbank.org/v2/sources/2/series/SP.POP.TOTL/metadata
 https://api.worldbank.org/v2/sources/2/series/NY.GDP.MKTP.KD/metadata
