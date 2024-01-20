@@ -12,6 +12,12 @@ Furthermore, the examination included an exploration of population density, unve
 - Power Query
 - Power BI
 
+## SKills Demostrated
+- ETL processes
+- Data cleaning
+- Table relationship
+- Creating Measures with DAX formulars
+
 ## Data Source
 All data in this report comes from the World's bank Economic Development Database at
 [world Bank](https://databank.worldbank.org).
@@ -42,4 +48,22 @@ The below diagram shows the query dependencies.
 
 ![Query dependensies](https://github.com/Emmanuelson321/Global-Economic-Indicators-using-Power-bi/assets/134542481/4d4166f5-b25a-4177-a80f-4ffd1c0b9ef2)
 
-## Data Analysis 
+## Data Modelling
+I utilized Data Analysis Expressions (DAX) formulas to craft measures, including 2020 Population, 2020 GDP, 2020 Population Density, 2020 GDP per Capita, GDP per Year, and GDP Annual Growth Percentage per Year. These measures contribute to a comprehensive overview of global economic trends, with accompanying comments for clarity and easy comprehension.
+
+The below shows the comment for the GDP Annual Growth percentage per Year
+
+![comment](https://github.com/Emmanuelson321/Global-Economic-Indicators-using-Power-bi/assets/134542481/b0208ea1-7b62-4462-8b33-3cc218132f48)
+
+## Data Analysis and Visualization
+The dashboard provides comprehensive global economic data, shedding light on the diverse economic growth patterns observed across nations and their trends over time. The focus was on scrutinizing countries on a global scale, with a specific emphasis on their population and economic performance through an interactive report page. The interactive report page is accessible by downloading the World Bank PBIX file from the main page.
+The image displayed below showcases the initial page of the interactive dashboard. The drill-through button is employed to provide detailed information about a specific country.
+
+![page 1](https://github.com/Emmanuelson321/Global-Economic-Indicators-using-Power-bi/assets/134542481/47c7c77c-9b08-44af-9a07-01e4568f89a1)
+
+The image below shows the metadata page.
+
+![page 2](https://github.com/Emmanuelson321/Global-Economic-Indicators-using-Power-bi/assets/134542481/0c53d5a3-7e16-43aa-bf06-fca80b91ae0b)
+
+## Conclusion
+These refined tables provide a solid interactive report page and foundation for a detailed exploration of economic indicators, offering insights into global economic trends, population dynamics, and other key variables. The systematic data cleaning and transformation processes ensure the datasets are well-prepared for in-depth analysis and valuable decision-making in the context of world economic data.
